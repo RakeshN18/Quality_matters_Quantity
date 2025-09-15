@@ -1,0 +1,12 @@
+admin
+admin123
+System Administrator
+admin@exam.com
+1
+
+student
+student123
+Demo Student
+student@exam.com
+0
+
